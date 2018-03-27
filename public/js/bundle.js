@@ -100,7 +100,7 @@ eval("// shim for using process in browser\nvar process = module.exports = {};\n
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("/* WEBPACK VAR INJECTION */(function(__dirname) {const path = __webpack_require__(/*! path */ \"./node_modules/path-browserify/index.js\")\nconsole.log('here is go!')\nconsole.log('co2>',path.resolve(__dirname))\n/* WEBPACK VAR INJECTION */}.call(this, \"/\"))\n\n//# sourceURL=webpack:///./src/js/index.js?");
+eval("const path = __webpack_require__(/*! path */ \"./node_modules/path-browserify/index.js\")\nconsole.log('here is go2!')\n\n\n//# sourceURL=webpack:///./src/js/index.js?");
 
 /***/ })
 
