@@ -1,0 +1,23 @@
+{
+  "name": "blog-ac75",
+  "version": "1.0.0",
+  "description": "se crea documentacion para pruebas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackchan/server-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackchan/server-node/issues"
+  },
+  "homepage": "https://github.com/hackchan/server-node#readme",
+  "devDependencies": {
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
